@@ -1,9 +1,7 @@
 <h1 align="center">👋 Howdy there! Sangam here!! ,Welcome to my GitHub account</h1>
 <h3 align="center">Software Engineer by profession 👨‍💻, problem solver by heart ❤️</h3>
 
-- About me **🤓 I'm a self-proclaimed coding wizard with a passion for creating tech solutions that make the world a better place, one byte at a time. 🧙‍♂️ But don't let my wizardry fool you, I'm also a lover of memes, puns, and dad jokes. 🤣**
-
-<h3 align="left">Connect with me:</h3>
+**🤓 I'm a self-proclaimed coding wizard with a passion for creating tech solutions that make the world a better place, one byte at a time. 🧙‍♂️ But don't let my wizardry fool you, I'm also a lover of memes, puns, and dad jokes. 🤣**
 <p align="left">
 </p>
 
