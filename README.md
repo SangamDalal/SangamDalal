@@ -8,8 +8,9 @@
 <br/><br/>
 **🌟 And the best part? I'm not afraid to share my knowledge with fellow developers. So feel free to take a peek at my code and drop me a line if you have any questions or just want to say hi. 👋**
 <br/><br/>
-**🚀 Let's collaborate on some mind-blowing projects and build a better world together! 
-🌍 Oh, and did I mention that I'm a fan of 🍕 and 🍺?
+**🚀 Let's collaborate on some mind-blowing projects and build a better world together!**
+<br/>
+**🌍 Oh, and did I mention that I'm a fan of 🍕 and 🍺?
 Let's code and chill! 😎**
 <p align="left">
 </p>
